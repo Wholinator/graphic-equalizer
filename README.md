@@ -1,0 +1,2 @@
+# graphic-equalizer
+Graphic EQ
